@@ -43,7 +43,7 @@
                     </div>
 
 
-                    <button type="submit" class="btn btn-danger">Confirm Delete Student</button>
+                    <button type="submit" class="btn btn-danger">Confirm Delete Customer</button>
                   </form>
             </div>
             <div class="col"></div>
